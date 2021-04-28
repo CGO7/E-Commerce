@@ -9,11 +9,11 @@ To use this application, run an npm install in your console,  npm start will the
 
 ## Video
 [Create, Get, Delete](https://drive.google.com/file/d/11yejnIwoCUZLWLa_1NgstlvBfR414nsf/view)
-<br>
+
 [Seed install, npm start, Get's](https://drive.google.com/file/d/1sUvMai0fIbO7FJoM46dWLQx7WFUEFuq_/view)
-<br>
+
 [Update All](https://drive.google.com/file/d/1wrzNcNNNptyDRMAgWIpaiVpgK8CBRnw3/view)
-<br>
+
 ## Tests
 Ran tests of this program using insomnia.
 
